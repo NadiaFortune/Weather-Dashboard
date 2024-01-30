@@ -2,14 +2,14 @@
 
 ## **Description**
 
-I created a simple clean Weather Dashboard to enable a check the current and forecasted 5-day weathr in their chosen city.
+I created a simple clean Weather Dashboard to enable a user to check the current and forecasted 5-day weathr in their chosen city.
 
 The desired outcome was to allow for the following to happen::
 
 -When the page loads, the user can search for their chosen city;  
 -The browser will show the current weather result for the chosen city;  
 -The browser will display the 5-day weather forecast for the chosen city;  
--The recent search history of chosen cities would show in a list, allowing the user to click them again to view the information again;  
+-The recent search history of searched cities would show in a list, allowing the user to click them again to view the information again;  
 -The recently searched cities would persist between refreshes of a page  
 
 Languages ued to create the applictaion were:  
