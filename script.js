@@ -15,7 +15,7 @@ searchBtn.addEventListener("click", () => {
 });
 
 function searchCity(city, API_key) {
-  var queryURL = `http://api.openweathermap.org/data/2.5/weather?q=${city}&units=imperial&appid=${API_key}`
+  var queryURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=imperial&appid=${API_key}`
   fetch(queryURL)
     .then(function (response) {
       return response.json();
